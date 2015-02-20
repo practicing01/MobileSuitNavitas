@@ -1,0 +1,15 @@
+[Fri Feb 20 03:23:28 2015] INFO: Opened log file Urho3D.log
+[Fri Feb 20 03:23:28 2015] INFO: Created 1 worker thread
+[Fri Feb 20 03:23:28 2015] INFO: Added resource path /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/Data/
+[Fri Feb 20 03:23:28 2015] INFO: Added resource path /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/CoreData/
+[Fri Feb 20 03:23:28 2015] WARNING: Skipped autoload folder Extra as it does not exist
+[Fri Feb 20 03:23:29 2015] INFO: Set screen mode 800x480 windowed
+[Fri Feb 20 03:23:29 2015] INFO: Initialized input
+[Fri Feb 20 03:23:29 2015] INFO: Initialized user interface
+[Fri Feb 20 03:23:29 2015] INFO: Initialized renderer
+[Fri Feb 20 03:23:29 2015] INFO: Set audio mode 44100 Hz stereo interpolated
+[Fri Feb 20 03:23:29 2015] INFO: Initialized engine
+[Fri Feb 20 03:23:32 2015] INFO: Loading scene from /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/Data/Scenes/MSNMenu.xml
+[Fri Feb 20 03:23:32 2015] INFO: Loading scene from /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/Data/Scenes/spaceSimulationMenu.xml
+[Fri Feb 20 03:23:34 2015] INFO: Loading scene from /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/Data/Scenes/cockpitScene.xml
+[Fri Feb 20 03:23:34 2015] INFO: Loading scene from /home/practicing01/Desktop/Programming/MobileSuitNavitas/Bin/Data/Scenes/spaceSimulationScene.xml
